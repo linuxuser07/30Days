@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb49f537-c9a4-4064-b4eb-f2d18b46a2f8" name="Default" comment="" />
+    <list default="true" id="bb49f537-c9a4-4064-b4eb-f2d18b46a2f8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/03 - CSS Variables/index-START.html" afterPath="$PROJECT_DIR$/03 - CSS Variables/index-START.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,12 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
+        <entry file="file://$PROJECT_DIR$/03 - CSS Variables/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+            <state relative-caret-position="-207">
+              <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -27,7 +30,7 @@
       <file leaf-file-name="index-FINISHED.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-993">
+            <state relative-caret-position="138">
               <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding />
             </state>
@@ -44,6 +47,7 @@
       <list>
         <option value="$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html" />
         <option value="$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html" />
+        <option value="$PROJECT_DIR$/03 - CSS Variables/index-START.html" />
       </list>
     </option>
   </component>
@@ -54,10 +58,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="616" />
-    <option name="y" value="507" />
-    <option name="width" value="1432" />
-    <option name="height" value="806" />
+    <option name="x" value="2103" />
+    <option name="width" value="1424" />
+    <option name="height" value="802" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -74,8 +77,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,12 +87,14 @@
             <path>
               <item name="30Days" type="b2602c69:ProjectViewProjectNode" />
               <item name="30Days" type="462c0819:PsiDirectoryNode" />
-              <item name="02 - JS and CSS Clock" type="462c0819:PsiDirectoryNode" />
+              <item name="03 - CSS Variables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,14 +131,16 @@
       <workItem from="1520567996891" duration="3105000" />
       <workItem from="1520744740247" duration="26000" />
       <workItem from="1520744781145" duration="4074000" />
+      <workItem from="1520904551359" duration="2183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7205000" />
+    <option name="totallyTimeSpent" value="9388000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="616" y="507" width="1922" height="1053" extended-state="6" />
+    <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -167,6 +172,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -198,7 +219,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-993">
+        <state relative-caret-position="138">
           <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
@@ -206,8 +227,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+        <state relative-caret-position="23">
+          <caret line="72" column="10" lean-forward="false" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - CSS Variables/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - CSS Variables/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
           <folding />
         </state>
       </provider>
