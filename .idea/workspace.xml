@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb49f537-c9a4-4064-b4eb-f2d18b46a2f8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html" afterPath="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html" afterPath="$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,36 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06 - Type Ahead/index-START.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-              <folding>
-                <marker date="1521166954366" expanded="true" signature="1307:1336" ph="..." />
-                <marker date="1521166954366" expanded="true" signature="1307:1348" ph="..." />
-                <marker date="1521166954366" expanded="true" signature="1307:1401" ph="..." />
-                <marker date="1521166954366" expanded="true" signature="1307:1458" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07 - Array Cardio Day 2/index-START.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html">
+        <entry file="file://$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="662">
+              <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -67,6 +43,7 @@
         <option value="$PROJECT_DIR$/06 - Type Ahead/index-START.html" />
         <option value="$PROJECT_DIR$/07 - Array Cardio Day 2/index-START.html" />
         <option value="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html" />
+        <option value="$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html" />
       </list>
     </option>
   </component>
@@ -106,12 +83,7 @@
             <path>
               <item name="30Days" type="b2602c69:ProjectViewProjectNode" />
               <item name="30Days" type="462c0819:PsiDirectoryNode" />
-              <item name="07 - Array Cardio Day 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="30Days" type="b2602c69:ProjectViewProjectNode" />
-              <item name="30Days" type="462c0819:PsiDirectoryNode" />
-              <item name="08 - Fun with HTML5 Canvas" type="462c0819:PsiDirectoryNode" />
+              <item name="09 - Dev Tools Domination" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,12 +132,12 @@
       <workItem from="1521078741835" duration="2598000" />
       <workItem from="1521165200603" duration="2358000" />
       <workItem from="1521347678678" duration="1603000" />
-      <workItem from="1521422394852" duration="2154000" />
+      <workItem from="1521422394852" duration="5102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21120000" />
+    <option name="totallyTimeSpent" value="24068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
@@ -362,16 +334,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06 - Type Ahead/index-START.html">
+    <entry file="file://$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <marker date="1521166954366" expanded="true" signature="1307:1336" ph="..." />
-            <marker date="1521166954366" expanded="true" signature="1307:1348" ph="..." />
-            <marker date="1521166954366" expanded="true" signature="1307:1401" ph="..." />
-            <marker date="1521166954366" expanded="true" signature="1307:1458" ph="..." />
-          </folding>
+        <state relative-caret-position="322">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -383,10 +350,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html">
+    <entry file="file://$PROJECT_DIR$/06 - Type Ahead/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <marker date="1521166954366" expanded="true" signature="1307:1336" ph="..." />
+            <marker date="1521166954366" expanded="true" signature="1307:1348" ph="..." />
+            <marker date="1521166954366" expanded="true" signature="1307:1401" ph="..." />
+            <marker date="1521166954366" expanded="true" signature="1307:1458" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
           <folding />
         </state>
       </provider>
