@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb49f537-c9a4-4064-b4eb-f2d18b46a2f8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-FINISHED.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html" afterPath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html">
+        <entry file="file://$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="391">
+              <caret line="114" column="62" lean-forward="true" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -43,6 +44,7 @@
         <option value="$PROJECT_DIR$/07 - Array Cardio Day 2/index-START.html" />
         <option value="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html" />
         <option value="$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html" />
+        <option value="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html" />
       </list>
     </option>
   </component>
@@ -79,6 +81,11 @@
             <path>
               <item name="30Days" type="b2602c69:ProjectViewProjectNode" />
               <item name="30Days" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="30Days" type="b2602c69:ProjectViewProjectNode" />
+              <item name="30Days" type="462c0819:PsiDirectoryNode" />
+              <item name="10 - Hold Shift and Check Checkboxes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,17 +135,18 @@
       <workItem from="1521347678678" duration="1603000" />
       <workItem from="1521422394852" duration="6299000" />
       <workItem from="1521601365434" duration="28000" />
-      <workItem from="1521953460666" duration="5000" />
+      <workItem from="1521953460666" duration="2507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25298000" />
+    <option name="totallyTimeSpent" value="27800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -357,6 +365,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="47">
           <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="114" column="62" lean-forward="true" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
           <folding />
         </state>
       </provider>
