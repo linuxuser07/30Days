@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bb49f537-c9a4-4064-b4eb-f2d18b46a2f8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 - LocalStorage/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 - LocalStorage/index-START.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/15 - LocalStorage/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="72" column="37" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
+            <state relative-caret-position="2">
+              <caret line="13" column="132" selection-start-line="13" selection-start-column="132" selection-end-line="13" selection-end-column="132" />
             </state>
           </provider>
         </entry>
@@ -60,9 +59,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1919" />
-    <option name="width" value="1922" />
-    <option name="height" value="540" />
+    <option name="x" value="1926" />
+    <option name="y" value="640" />
+    <option name="width" value="1914" />
+    <option name="height" value="536" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -138,16 +138,16 @@
       <workItem from="1522465918998" duration="633000" />
       <workItem from="1522639691168" duration="2141000" />
       <workItem from="1522724322101" duration="5000" />
-      <workItem from="1522895275143" duration="2855000" />
+      <workItem from="1522895275143" duration="4200000" />
+      <workItem from="1522981508916" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39006000" />
+    <option name="totallyTimeSpent" value="40360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -175,6 +175,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/15 - LocalStorage/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="132" selection-start-line="13" selection-start-column="132" selection-end-line="13" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
@@ -421,8 +428,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15 - LocalStorage/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="72" column="37" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
+        <state relative-caret-position="2">
+          <caret line="13" column="132" selection-start-line="13" selection-start-column="132" selection-end-line="13" selection-end-column="132" />
         </state>
       </provider>
     </entry>
