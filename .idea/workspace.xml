@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bb49f537-c9a4-4064-b4eb-f2d18b46a2f8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 - Sort Without Articles/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Sort Without Articles/index-START.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/17 - Sort Without Articles/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,16 +143,16 @@
       <workItem from="1522981508916" duration="9000" />
       <workItem from="1523849990727" duration="612000" />
       <workItem from="1523934021302" duration="2113000" />
-      <workItem from="1524021002365" duration="1156000" />
+      <workItem from="1524021002365" duration="1758000" />
+      <workItem from="1524097856514" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44241000" />
+    <option name="totallyTimeSpent" value="44852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24881391" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -181,6 +180,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/17 - Sort Without Articles/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="97" selection-start-line="60" selection-start-column="97" selection-end-line="60" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/15 - LocalStorage/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
